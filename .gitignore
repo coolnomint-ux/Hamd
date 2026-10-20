@@ -1,0 +1,10 @@
+# Private local exports and credentials
+private/
+.env
+.env.*
+!.env.example
+credentials*.json
+token*.json
+*.csv
+__pycache__/
+*.pyc
